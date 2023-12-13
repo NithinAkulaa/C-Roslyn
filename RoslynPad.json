@@ -1,0 +1,14 @@
+{
+  "sendErrors": true,
+  "enableBraceCompletion": true,
+  "windowBounds": "25.333333333333332,25.333333333333332,800,600",
+  "dockLayout": "<LayoutRoot>\r\n  <RootPanel Orientation=\"Horizontal\">\r\n    <LayoutAnchorablePane Id=\"6d75b13b-05a8-43fc-a507-0f0d7f37290b\" Name=\"Documents\" DockWidth=\"200\">\r\n      <LayoutAnchorable CanHide=\"False\" AutoHideWidth=\"200\" AutoHideMinWidth=\"100\" AutoHideMinHeight=\"100\" Title=\"Documents\" IsSelected=\"True\" ContentId=\"DocumentTree\" CanFloat=\"False\" LastActivationTimeStamp=\"12/11/2023 17:24:41\" />\r\n    </LayoutAnchorablePane>\r\n    <LayoutDocumentPane Id=\"4ba3d757-42c1-42f9-9509-02fda3ae4e90\">\r\n      <LayoutDocument Title=\"Example.cs\" LastActivationTimeStamp=\"12/11/2023 17:16:27\" />\r\n      <LayoutDocument Title=\"Example2.cs\" IsSelected=\"True\" IsLastFocusedDocument=\"True\" LastActivationTimeStamp=\"12/11/2023 17:24:43\" />\r\n    </LayoutDocumentPane>\r\n  </RootPanel>\r\n  <TopSide />\r\n  <RightSide />\r\n  <LeftSide />\r\n  <BottomSide />\r\n  <Hidden />\r\n</LayoutRoot>",
+  "windowState": "Maximized",
+  "editorFontSize": 12,
+  "outputFontSize": 12,
+  "searchFileContents": true,
+  "searchUsingRegex": true,
+  "liveModeDelayMs": 2000,
+  "defaultPlatformName": ".NET 7.0.401",
+  "formatDocumentOnComment": true
+}
